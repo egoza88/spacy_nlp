@@ -1,0 +1,5 @@
+Category1 Category2 Category3
+
+The tool assists non-technical employees with preparing data, calibrating parameters and determining the optimal algorithms for tackling specific business problems with machine learning.
+
+ID:http://techcrunch.com/?p=1511701_1

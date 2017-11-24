@@ -1,0 +1,9 @@
+T1	ORGANIZATION 31 50	Andreessen Horowitz
+T2	ORGANIZATION 52 67	Sequoia Capital
+T3	ORGANIZATION 69 86	Coatue Management
+T4	ORGANIZATION 88 98	Vy Capital
+T5	ORGANIZATION 100 108	Fidelity
+T6	PERSON 110 120	Sam Altman
+T7	PERSON 125 135	Ron Conway
+T9	MONEY 157 169	$200 million
+T8	fund 0 9	Category1

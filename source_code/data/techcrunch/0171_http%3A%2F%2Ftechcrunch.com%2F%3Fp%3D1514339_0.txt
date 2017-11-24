@@ -1,0 +1,5 @@
+Category1 Category2 Category3
+
+Underscoring the ongoing market demand for security services amid a growing threat of cyber breaches and malicious hacking among businesses that are moving to cloud-based infrastructures, Cisco announced it has acquired Observable Networks, a company that provides real-time network behavior monitoring to help IT teams detect anomalies that might be related to security breaches.
+
+ID:http://techcrunch.com/?p=1514339_0

@@ -1,0 +1,6 @@
+T1	ORGANIZATION 31 50	Kezar Life Sciences
+T3	MONEY 131 142	$50 million
+T4	ORGANIZATION 150 200	Cormorant Asset Management and Morningside Venture
+T2	FUNDING_SERIES 102 110	Series B
+T5	fund 0 9	Category1
+T6	exit 10 19	Category2

@@ -1,0 +1,5 @@
+Category1 Category2 Category3
+
+of Shares Price, USD Value, USD August 02, 2017 1,410 7.04 9,926 July 05, 2017 1,039 9.55 9,922 June 02, 2017 1,066 9.3 9,914 May 03, 2017 1,017 9.75 9,916 April 05, 2017 1,243 8.0 9,944 March 03, 2017 990 10.04 9,940 February 03, 2017 907 10.95 9,932 January 04, 2017 1,109 8.95 9,926 December 05, 2016 1,105 8.96 9,901 Total 9,886 9.04 89,321 Original news release Source: SEC
+
+ID:5P58-J7K1-JB4F-Y2W2_3

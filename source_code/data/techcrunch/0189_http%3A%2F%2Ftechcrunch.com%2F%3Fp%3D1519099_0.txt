@@ -1,0 +1,5 @@
+Category1 Category2 Category3
+
+Elon Musk and Mark Zuckerberg might not be able to agree about much when it comes to AI these days, but the pair do seem to see the same potential in Vicarious, a startup applying unsupervised learning techniques to robots. 
+
+ID:http://techcrunch.com/?p=1519099_0
